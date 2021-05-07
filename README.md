@@ -31,6 +31,11 @@ Using a framework to construct your website’s front-end has a lot of advantage
 
 ### Fantastic! No conflict between stylesheets and javascript scripts because rockskeleton uses the rock- prefix.
 
+---
+
+![Frameworks are incredibly helpful tools ](./img/layoutit_01.jpg)
+
+---
 
 ## Contributing
 
@@ -57,7 +62,6 @@ git clone git@github.com:meggistorvard/layoutit-for-rockskeleton-frontend-framew
 - Create a new pull request using <a href="https://github.com/meggistorvard/layoutit-for-rockskeleton-frontend-framework/compare/" target="_blank">`https://github.com/meggistorvard/layoutit-for-rockskeleton-frontend-framework/compare/`</a>
 
 ---
-![Frameworks are incredibly helpful tools ](./ing/layoutit_01.jpg)
 
 ## Copyright and license
 
