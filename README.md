@@ -1,3 +1,4 @@
+
 Layoutit for rockskeleton FFE
 ==================
 **LayoutIt! helps you make your frontend coding easier without needing to be an expert in JavaScript, HTML5 or CSS3**
@@ -44,8 +45,8 @@ Using a framework to construct your website’s front-end has a lot of advantage
     - Clone this repo to your local machine using 
 
 ```
-git clone  git@github.com:meggistorvard/layoutit-for-rockskeleton-frontend-framework.git
-	```
+git clone git@github.com:meggistorvard/layoutit-for-rockskeleton-frontend-framework.git
+```
 
 ### Step 2
 
@@ -75,7 +76,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-## Donations (Help Us)
+## Donations (Give me a coffee)
 
 Donate to Meggis and help us improve free software
 There are a number of ways in which you can support us and help make a huge difference to our charity whether it be financially, with your time or donating equipment! 
