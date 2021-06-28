@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "rockskeleton": "~3.3.7",
+    "rockskeleton": "~1.3.7",
     "html5shiv": "~3.7.3",
     "jquery-htmlclean": "~1.4.0",
     "jquery-ui": "~1.11.4"

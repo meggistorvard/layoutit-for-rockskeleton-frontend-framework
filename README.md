@@ -33,7 +33,7 @@ Using a framework to construct your website’s front-end has a lot of advantage
 
 ---
 
-![Frameworks are incredibly helpful tools ](./img/layoutit_01.jpg)
+![Frameworks are incredibly helpful tools ](./resources/img/Terminal.png)
 
 ---
 
